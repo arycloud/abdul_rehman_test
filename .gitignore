@@ -8,4 +8,4 @@ __pycache__/
 
 # editor specific files
 
-.idea/*
+.idea
